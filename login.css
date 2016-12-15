@@ -1,0 +1,52 @@
+
+html{
+   background: #558C89 ;
+ }
+
+header {
+    border: 2px solid #D9853B;
+    background-color: #74AFAD;
+    border-radius: 20px;
+}
+
+header img{
+    max-width: 60px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+header div2 {
+  color: #ECECEA;
+  font-family: Arial l;
+  font-size: 55px;
+  margin-left: 30%;
+}
+
+
+section {
+    background-color: #74AFAD;
+    border: 1px solid #D9853B;
+    border-radius: 10px;
+}
+
+.Welcome{
+    margin-left: 44%;
+    color: #ECECEA;
+    font-family: arial;
+}
+
+.entries{
+    margin-left: 40%;
+    font-family: Arial, serif;
+    color: black;
+}
+
+section buttons{
+    margin-left: 40%;
+}
+
+
+
+
+
+
+
