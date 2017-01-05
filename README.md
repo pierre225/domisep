@@ -2,7 +2,7 @@
 isep APP
 
 
-1)	Git add (si nouveau fichier) * (tous en meme temps)
-2)	Git commit –m ‘’  Ceci est un commentaire ’’
+1)	Git add (if new file) * (all in one go)
+2)	Git commit –m ‘’  This is a comment ’’
 3)	Git push 
-4)	Git status (toutes les infos sur le status actuel)
+4)	Git status (every info on the actual status)
